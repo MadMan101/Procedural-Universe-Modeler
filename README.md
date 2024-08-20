@@ -1,2 +1,2 @@
-# Procedurally produce a database file containing an organic and responsive universe
+# Procedurally produce an organic and responsive universe
  
